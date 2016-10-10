@@ -74,3 +74,15 @@ deploy:
   type: git
   repo: git@github.com:polarpig/polarpig.github.io.git
   branch: master
+
+# main menu navigation
+menu:
+  首页: index.html
+  文章: archives
+  标签: tags
+  分类: categories
+  关于: about
+
+social:
+  GitHub: https://github.com/polarpig
+  Weibo: http://weibo.com/labudaka
